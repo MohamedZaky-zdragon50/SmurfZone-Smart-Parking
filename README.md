@@ -71,16 +71,6 @@ The system leverages **FreeRTOS** to manage multiple tasks simultaneously:
 
 ---
 
-## 📸 Screenshots
-
-### Web Dashboard
-![Dashboard](screenshots/dashboard.jpg)
-
-### Telegram Bot
-![Telegram](screenshots/Telegram Bot .png)
-
----
-
 ## 💻 How to Run
 1. Install **Arduino IDE**  
 2. Add **ESP32 board** via Board Manager  
