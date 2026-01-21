@@ -1,6 +1,4 @@
-1. **SmurfZone.ino**
 
-2. **README.md**
 ```markdown
 # 🧢 SmurfZone – Smart Parking System
 
