@@ -28,8 +28,8 @@
 
 // ================= WiFi credentials =================
 
-#define WIFI_SSID     "Good Good"
-#define WIFI_PASSWORD "Good9876_4321goodzaky"
+#define WIFI_SSID     ""
+#define WIFI_PASSWORD ""
 
 // ================= Telegram =================
 #define BOT_TOKEN "8582571727:AAEv6B6SXq1TZUuKzhtib78ykhc88Y4O_Rw"
