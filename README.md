@@ -74,10 +74,10 @@ The system leverages **FreeRTOS** to manage multiple tasks simultaneously:
 ## 📸 Screenshots
 
 ### Web Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpg)
 
 ### Telegram Bot
-![Telegram](screenshots/telegram.png)
+![Telegram](screenshots/Telegram Bot .png)
 
 ---
 
@@ -92,7 +92,7 @@ The system leverages **FreeRTOS** to manage multiple tasks simultaneously:
    - LEDs → GPIO 26 (Green), GPIO 27 (Red)  
    - LCD → I2C (0x27)  
 5. Upload the code to **ESP32**  
-6. Connect to WiFi (`Good Good / Good9876_4321goodzaky`)  
+6. Connect to WiFi (`username / password`)  
 7. Open the Web Dashboard using ESP32 IP in browser  
 8. Monitor **Telegram Bot** for real-time car exit messages  
 
